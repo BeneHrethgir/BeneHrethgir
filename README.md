@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BeneHrethgir
 - 👀 I’m interested in ... Cataclysm DDA, Dwarf Fortress, Caves of Qud, Tales of Maj'Eyal
-- 🌱 I’m currently learning/have learned ... C++, C, C#, Lua
+- 🌱 I’m currently learning/have learned ... C++, C, C#, Lua, Java, SQL, Clojure
 - 💞️ I’m looking to collaborate on ... pretty much all the thingsss
 - 📫 How to reach me ... internet...
 
